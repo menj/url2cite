@@ -1,6 +1,6 @@
 === URL2Cite ===
 Contributors: menj
-Donate link: https://menj.net
+Donate link: https://www.paypal.com/paypalme/menj
 Tags: citation, references, academic, seo
 Requires at least: 5.0
 Tested up to: 6.5
